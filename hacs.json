@@ -1,0 +1,6 @@
+{
+  "name": "Garage Door Virtual Cover",
+  "type": "integration",
+  "homeassistant": "2026.7.2",
+  "render_readme": true
+}

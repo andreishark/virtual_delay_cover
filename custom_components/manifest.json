@@ -1,0 +1,18 @@
+{
+  "domain": "virtual_delay_cover",
+  "name": "virtual_delay_cover",
+  "codeowners": [
+    "@andreishark"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/andreishark/virtual_delay_cover.git",
+  "issue_tracker": "https://github.com/andreishark/virtual_delay_cover/issues",
+  "homekit": {},
+  "integration_type": "helper",
+  "iot_class": "calculated",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
